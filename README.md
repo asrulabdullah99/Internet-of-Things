@@ -3,7 +3,7 @@
 **Mata Kuliah:** *Internet of Things* (IoT)  
 **Bobot SKS:** 3 SKS (1 Teori, 2 Praktikum)  
 **Semester:** Ganjil / Genap  
-**Prasyarat:** Algoritma dan Pemrograman Dasar  
+**Prasyarat:** Algoritma dan Pemrograman Dasar, Jaringan Komputer dan Komunikasi Data
 
 ---
 
