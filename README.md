@@ -27,9 +27,9 @@ Mata kuliah ini dirancang dengan pendekatan *Hands-on* dan *Project-Based Learni
 
 ## 4. Rencana Kegiatan Pembelajaran Mingguan (16 Pertemuan)
 
-| Minggu | Kemampuan Akhir yang Diharapkan (Sub-CPMK) | Materi Pembelajaran | Bentuk & Metode Pembelajaran | Penilaian (Indikator & Kriteria) | Bobot |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **1** | Mampu memahami anatomi sistem IoT secara keseluruhan. | 1. Arsitektur IoT (*Perception, Network, Application*)<br>2. Pengenalan ESP32 vs mikrokontroler lain | Kuliah Interaktif, Diskusi<br>*(TM: 1x50", BM: 2x60")* | Ketepatan menjelaskan lapisan arsitektur sistem IoT. | 2% |
+| Minggu | Kemampuan Akhir yang Diharapkan (Sub-CPMK) | Materi Pembelajaran | Bentuk & Metode Pembelajaran | Penilaian (Indikator & Kriteria) | Bobot | Materi |
+| :--- | :--- | :--- | :--- | :--- | :--- |:--- |
+| **1** | Mampu memahami anatomi sistem IoT secara keseluruhan. | 1. Arsitektur IoT (*Perception, Network, Application*)<br>2. Pengenalan ESP32 vs mikrokontroler lain | Kuliah Interaktif, Diskusi<br>*(TM: 1x50", BM: 2x60")* | Ketepatan menjelaskan lapisan arsitektur sistem IoT. | 2% | [Week_1](./Week_1/)
 | **2** | Mampu mengatur lingkungan kerja dan memprogram I/O digital dasar. | 1. Instalasi Arduino IDE / PlatformIO<br>2. *Wiring* komponen di *Breadboard*<br>3. Pemrograman GPIO (LED, *Push Button*) | Praktikum, *Hands-on*<br>*(TM: 1x50", P: 2x170")* | Keberhasilan *upload program* dan manipulasi I/O digital. | 5% |
 | **3** | Mampu melakukan akuisisi data menggunakan sensor. | 1. Pembacaan Sensor Analog vs Digital<br>2. Praktik Sensor Lingkungan (Suhu/Kelembaban DHT22, Kelembaban Tanah/NDVI) | Praktikum, *Hands-on*<br>*(TM: 1x50", P: 2x170")* | Akurasi konversi nilai raw sensor menjadi satuan standar (Celcius, %RH). | 7% |
 | **4** | Mampu mengontrol perangkat eksternal melalui aktuator. | 1. Konsep *Relay* (AC/DC Load)<br>2. Kontrol *Servo* dan Motor DC<br>3. Logika kontrol berbasis *threshold* sensor | Praktikum, *Problem-based*<br>*(TM: 1x50", P: 2x170")* | Sistem mampu menggerakkan aktuator berdasarkan batas nilai sensor tertentu. | 7% |
